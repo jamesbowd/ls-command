@@ -1,0 +1,25 @@
+{
+  "name": "nls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesbowd/ls-command.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "nls": "index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/jamesbowd/ls-command/issues"
+  },
+  "homepage": "https://github.com/jamesbowd/ls-command#readme",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
